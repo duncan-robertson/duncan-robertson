@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @duncan-robertson
-- 👀 I’m interested in pretty much every language
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate
+- 👀 I am a developer interested in a wide variety of technologies. I studied computer science at McMaster in Canada and currently work as a system architect within a microservice space in the banking industry.
 
 <!---
 duncan-robertson/duncan-robertson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
